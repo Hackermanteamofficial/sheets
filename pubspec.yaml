@@ -1,4 +1,4 @@
-name: sheetifye
+name: sheets
 description: "Flutter spreadsheet engine with XLSX/CSV support, live editing, undo/redo, formula evaluation, clipboard, autofill, and a full persistence lifecycle."
 version: 1.1.0
 homepage: https://github.com/vikaspoute/sheetifye

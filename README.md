@@ -390,3 +390,5 @@ Built with ❤️ by [Vikas Poute](https://github.com/vikaspoute)
 ⭐ **If Sheetifye saves you time, please give it a star on [GitHub](https://github.com/vikaspoute/sheetifye).** ⭐
 
 </div>
+
+Package name on pub.dev: sheets
