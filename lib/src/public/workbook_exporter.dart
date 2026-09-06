@@ -1,8 +1,8 @@
 import 'dart:typed_data';
 import 'package:archive/archive.dart';
-import 'package:sheetifye/src/domain/entities/workbook.dart';
-import 'package:sheetifye/src/data/persistence/workbook_serializer.dart';
-import 'package:sheetifye/src/core/utils/grid_utils.dart';
+import 'package:sheets/src/domain/entities/workbook.dart';
+import 'package:sheets/src/data/persistence/workbook_serializer.dart';
+import 'package:sheets/src/core/utils/grid_utils.dart';
 
 class WorkbookExporter {
   /// Serializes the workbook to JSON format.

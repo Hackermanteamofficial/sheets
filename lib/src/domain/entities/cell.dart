@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:sheetifye/src/core/enums/cell_enums.dart';
+import 'package:sheets/src/core/enums/cell_enums.dart';
 
 @immutable
 class Cell {

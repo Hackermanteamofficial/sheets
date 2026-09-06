@@ -1,8 +1,8 @@
 import 'package:flutter_test/flutter_test.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:sheetifye/sheetifye.dart';
-import 'package:sheetifye/src/engine/formula/recalculation_engine.dart';
-import 'package:sheetifye/src/engine/formula/dependency_graph.dart';
+import 'package:sheets/sheetifye.dart';
+import 'package:sheets/src/engine/formula/recalculation_engine.dart';
+import 'package:sheets/src/engine/formula/dependency_graph.dart';
 
 void main() {
   TestWidgetsFlutterBinding.ensureInitialized();

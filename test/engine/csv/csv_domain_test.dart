@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:sheetifye/sheetifye.dart';
-import 'package:sheetifye/src/core/utils/grid_utils.dart';
+import 'package:sheets/sheetifye.dart';
+import 'package:sheets/src/core/utils/grid_utils.dart';
 
 void main() {
   TestWidgetsFlutterBinding.ensureInitialized();

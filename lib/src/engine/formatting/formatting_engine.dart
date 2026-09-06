@@ -1,4 +1,4 @@
-import 'package:sheetifye/src/domain/entities/cell.dart';
+import 'package:sheets/src/domain/entities/cell.dart';
 
 class FormattingEngine {
   final Map<String, CellStyle> _styleCache = {};

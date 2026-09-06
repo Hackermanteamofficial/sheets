@@ -1,4 +1,4 @@
-import 'package:sheetifye/src/core/utils/grid_utils.dart';
+import 'package:sheets/src/core/utils/grid_utils.dart';
 
 class MergedRegion {
   final GridRange range;

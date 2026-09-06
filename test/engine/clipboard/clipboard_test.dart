@@ -1,8 +1,8 @@
 import 'package:flutter_test/flutter_test.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter/services.dart';
-import 'package:sheetifye/sheetifye.dart';
-import 'package:sheetifye/src/engine/clipboard/clipboard_manager.dart';
+import 'package:sheets/sheetifye.dart';
+import 'package:sheets/src/engine/clipboard/clipboard_manager.dart';
 
 void main() {
   final binding = TestWidgetsFlutterBinding.ensureInitialized();

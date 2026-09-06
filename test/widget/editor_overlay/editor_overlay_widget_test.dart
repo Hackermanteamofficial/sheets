@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:sheetifye/sheetifye.dart';
-import 'package:sheetifye/src/engine/overlays/cell_editor_overlay.dart';
+import 'package:sheets/sheetifye.dart';
+import 'package:sheets/src/engine/overlays/cell_editor_overlay.dart';
 
 void main() {
   testWidgets(

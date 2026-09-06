@@ -1,7 +1,7 @@
 import 'package:flutter/services.dart';
-import 'package:sheetifye/src/core/utils/grid_utils.dart';
-import 'package:sheetifye/src/domain/entities/workbook.dart';
-import 'package:sheetifye/src/engine/structure/reference_shift_engine.dart';
+import 'package:sheets/src/core/utils/grid_utils.dart';
+import 'package:sheets/src/domain/entities/workbook.dart';
+import 'package:sheets/src/engine/structure/reference_shift_engine.dart';
 
 class ClipboardManager {
   GridRange? _copiedRange;

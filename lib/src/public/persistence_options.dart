@@ -1,6 +1,6 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:sheetifye/src/domain/entities/workbook.dart';
+import 'package:sheets/src/domain/entities/workbook.dart';
 
 final persistenceOptionsProvider = Provider<PersistenceOptions?>((ref) => null);
 

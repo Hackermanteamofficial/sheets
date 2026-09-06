@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:sheetifye/src/core/theme/sheetifye_color_tokens.dart';
-import 'package:sheetifye/src/core/theme/sheetifye_dimensions.dart';
-import 'package:sheetifye/src/core/theme/sheetifye_text_tokens.dart';
+import 'package:sheets/src/core/theme/sheetifye_color_tokens.dart';
+import 'package:sheets/src/core/theme/sheetifye_dimensions.dart';
+import 'package:sheets/src/core/theme/sheetifye_text_tokens.dart';
 
 /// Defines the visual theme for [Sheetifye] components.
 ///

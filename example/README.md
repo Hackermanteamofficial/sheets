@@ -11,7 +11,7 @@ If you want to add a **spreadsheet viewer** to your app in under a minute, copy 
 ```dart
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:sheetifye/sheetifye.dart';
+import 'package:sheets/sheetifye.dart';
 
 void main() {
   runApp(

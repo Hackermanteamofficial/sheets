@@ -1,7 +1,7 @@
 import 'package:xml/xml.dart';
-import 'package:sheetifye/src/core/utils/grid_utils.dart';
-import 'package:sheetifye/sheetifye.dart' as entities;
-import 'package:sheetifye/src/engine/merge/merged_cell_manager.dart';
+import 'package:sheets/src/core/utils/grid_utils.dart';
+import 'package:sheets/sheetifye.dart' as entities;
+import 'package:sheets/src/engine/merge/merged_cell_manager.dart';
 
 class XlsxSheetParser {
   static XlsxSheetData parse(XmlDocument xml, List<String> sharedStrings) {

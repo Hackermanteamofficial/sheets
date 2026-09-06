@@ -1,4 +1,4 @@
-import 'package:sheetifye/src/engine/sort/index_mapping_engine.dart';
+import 'package:sheets/src/engine/sort/index_mapping_engine.dart';
 
 abstract class FilterCriterion {
   bool matches(dynamic value);

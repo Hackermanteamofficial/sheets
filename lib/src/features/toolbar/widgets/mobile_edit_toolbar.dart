@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:sheetifye/src/core/theme/sheetifye_theme.dart';
-import 'package:sheetifye/src/core/theme/sheetifye_spacing_tokens.dart';
-import 'package:sheetifye/src/core/theme/sheetifye_dimensions.dart';
-import 'package:sheetifye/src/features/workbook/state/workbook_state.dart';
+import 'package:sheets/src/core/theme/sheetifye_theme.dart';
+import 'package:sheets/src/core/theme/sheetifye_spacing_tokens.dart';
+import 'package:sheets/src/core/theme/sheetifye_dimensions.dart';
+import 'package:sheets/src/features/workbook/state/workbook_state.dart';
 
 class MobileEditToolbar extends ConsumerWidget {
   const MobileEditToolbar({super.key});

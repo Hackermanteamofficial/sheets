@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:sheetifye/src/core/theme/sheetifye_dimensions.dart';
-import 'package:sheetifye/src/core/theme/sheetifye_spacing_tokens.dart';
-import 'package:sheetifye/src/core/theme/sheetifye_theme.dart';
+import 'package:sheets/src/core/theme/sheetifye_dimensions.dart';
+import 'package:sheets/src/core/theme/sheetifye_spacing_tokens.dart';
+import 'package:sheets/src/core/theme/sheetifye_theme.dart';
 import 'package:shimmer/shimmer.dart';
 
 class SheetifyeShimmer extends StatelessWidget {

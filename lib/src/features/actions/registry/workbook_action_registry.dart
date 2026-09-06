@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:sheetifye/src/features/actions/models/workbook_action.dart';
-import 'package:sheetifye/src/features/workbook/state/workbook_state.dart';
-import 'package:sheetifye/src/public/persistence_options.dart';
-import 'package:sheetifye/src/public/workbook_exporter.dart';
+import 'package:sheets/src/features/actions/models/workbook_action.dart';
+import 'package:sheets/src/features/workbook/state/workbook_state.dart';
+import 'package:sheets/src/public/persistence_options.dart';
+import 'package:sheets/src/public/workbook_exporter.dart';
 import 'package:flutter/services.dart';
 
 final workbookActionRegistryProvider = Provider<List<WorkbookAction>>((ref) {

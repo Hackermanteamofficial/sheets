@@ -1,6 +1,6 @@
-import 'package:sheetifye/src/domain/entities/workbook.dart';
-import 'package:sheetifye/src/domain/entities/cell.dart';
-import 'package:sheetifye/src/core/utils/grid_utils.dart';
+import 'package:sheets/src/domain/entities/workbook.dart';
+import 'package:sheets/src/domain/entities/cell.dart';
+import 'package:sheets/src/core/utils/grid_utils.dart';
 
 class WorkbookSerializer {
   Map<String, dynamic> serialize(Workbook workbook) {

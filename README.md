@@ -124,7 +124,7 @@ void main() {
 ### 2. View a Spreadsheet (read-only)
 
 ```dart
-import 'package:sheetifye/sheetifye.dart';
+import 'package:sheets/sheetifye.dart';
 
 Sheetifye.asset('assets/reports/sales_2024.xlsx')
 ```
@@ -224,7 +224,7 @@ The `onWorkbookChanged` callback fires after each undo/redo, keeping your UI in 
 The workbook action menu provides extensible workbook-level operations. Built-in actions include Save, Save As, Export CSV, Export XLSX, Undo, Redo, and Discard Changes. Add your own:
 
 ```dart
-import 'package:sheetifye/sheetifye.dart';
+import 'package:sheets/sheetifye.dart';
 
 Sheetifye.asset(
   'assets/data.xlsx',

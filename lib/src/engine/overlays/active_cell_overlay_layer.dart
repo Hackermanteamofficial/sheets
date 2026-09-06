@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:sheetifye/sheetifye.dart';
-import 'package:sheetifye/src/engine/overlays/overlay_manager.dart';
-import 'package:sheetifye/src/engine/overlays/position_resolver.dart';
-import 'package:sheetifye/src/core/theme/sheetifye_dimensions.dart';
+import 'package:sheets/sheetifye.dart';
+import 'package:sheets/src/engine/overlays/overlay_manager.dart';
+import 'package:sheets/src/engine/overlays/position_resolver.dart';
+import 'package:sheets/src/core/theme/sheetifye_dimensions.dart';
 
 class ActiveCellOverlayLayer implements OverlayLayer {
   @override

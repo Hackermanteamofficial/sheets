@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:sheetifye/src/core/theme/sheetifye_theme_data.dart';
+import 'package:sheets/src/core/theme/sheetifye_theme_data.dart';
 
 class SheetifyeTheme extends StatelessWidget {
   final SheetifyeThemeData data;

@@ -1,15 +1,15 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:sheetifye/src/features/grid/widgets/sheet_grid.dart';
-import 'package:sheetifye/src/features/formula_bar/widgets/formula_bar.dart';
-import 'package:sheetifye/src/features/tabs/widgets/sheet_tabs.dart';
-import 'package:sheetifye/src/features/workbook/state/workbook_state.dart';
-import 'package:sheetifye/src/features/toolbar/widgets/sheetifye_toolbar.dart';
-import 'package:sheetifye/src/core/theme/sheetifye_theme.dart';
+import 'package:sheets/src/features/grid/widgets/sheet_grid.dart';
+import 'package:sheets/src/features/formula_bar/widgets/formula_bar.dart';
+import 'package:sheets/src/features/tabs/widgets/sheet_tabs.dart';
+import 'package:sheets/src/features/workbook/state/workbook_state.dart';
+import 'package:sheets/src/features/toolbar/widgets/sheetifye_toolbar.dart';
+import 'package:sheets/src/core/theme/sheetifye_theme.dart';
 
-import 'package:sheetifye/src/features/toolbar/widgets/mobile_edit_toolbar.dart';
-import 'package:sheetifye/src/public/persistence_options.dart';
+import 'package:sheets/src/features/toolbar/widgets/mobile_edit_toolbar.dart';
+import 'package:sheets/src/public/persistence_options.dart';
 
 class SheetifyeWorkbook extends ConsumerStatefulWidget {
   final bool readOnly;

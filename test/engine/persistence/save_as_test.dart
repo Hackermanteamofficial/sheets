@@ -1,9 +1,9 @@
 import 'package:flutter_test/flutter_test.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:sheetifye/sheetifye.dart';
-import 'package:sheetifye/src/public/persistence_options.dart';
-import 'package:sheetifye/src/public/workbook_exporter.dart';
-import 'package:sheetifye/src/data/persistence/workbook_serializer.dart';
+import 'package:sheets/sheetifye.dart';
+import 'package:sheets/src/public/persistence_options.dart';
+import 'package:sheets/src/public/workbook_exporter.dart';
+import 'package:sheets/src/data/persistence/workbook_serializer.dart';
 
 void main() {
   TestWidgetsFlutterBinding.ensureInitialized();

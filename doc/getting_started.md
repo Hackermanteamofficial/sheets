@@ -69,7 +69,7 @@ flutter:
 Then drop the widget into any screen:
 
 ```dart
-import 'package:sheetifye/sheetifye.dart';
+import 'package:sheets/sheetifye.dart';
 
 class SpreadsheetPage extends StatelessWidget {
   const SpreadsheetPage({super.key});

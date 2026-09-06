@@ -1,9 +1,9 @@
 import 'package:flutter_test/flutter_test.dart';
 import 'package:flutter/widgets.dart';
-import 'package:sheetifye/sheetifye.dart';
-import 'package:sheetifye/src/engine/overlays/overlay_manager.dart';
-import 'package:sheetifye/src/engine/overlays/position_resolver.dart';
-import 'package:sheetifye/src/engine/layout/layout_engine.dart';
+import 'package:sheets/sheetifye.dart';
+import 'package:sheets/src/engine/overlays/overlay_manager.dart';
+import 'package:sheets/src/engine/overlays/position_resolver.dart';
+import 'package:sheets/src/engine/layout/layout_engine.dart';
 
 void main() {
   TestWidgetsFlutterBinding.ensureInitialized();

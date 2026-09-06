@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:sheetifye/sheetifye.dart';
-import 'package:sheetifye/src/features/workbook/widgets/sheetifye_workbook.dart';
-import 'package:sheetifye/src/features/grid/widgets/sheet_grid.dart';
-import 'package:sheetifye/src/features/formula_bar/widgets/formula_bar.dart';
-import 'package:sheetifye/src/features/tabs/widgets/sheet_tabs.dart';
+import 'package:sheets/sheetifye.dart';
+import 'package:sheets/src/features/workbook/widgets/sheetifye_workbook.dart';
+import 'package:sheets/src/features/grid/widgets/sheet_grid.dart';
+import 'package:sheets/src/features/formula_bar/widgets/formula_bar.dart';
+import 'package:sheets/src/features/tabs/widgets/sheet_tabs.dart';
 
 void main() {
   testWidgets(

@@ -1,8 +1,8 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:sheetifye/sheetifye.dart';
-import 'package:sheetifye/src/engine/formula/recalculation_engine.dart';
-import 'package:sheetifye/src/engine/structure/reference_shift_engine.dart';
-import 'package:sheetifye/src/engine/formula/function_registry.dart';
+import 'package:sheets/sheetifye.dart';
+import 'package:sheets/src/engine/formula/recalculation_engine.dart';
+import 'package:sheets/src/engine/structure/reference_shift_engine.dart';
+import 'package:sheets/src/engine/formula/function_registry.dart';
 
 void main() {
   TestWidgetsFlutterBinding.ensureInitialized();

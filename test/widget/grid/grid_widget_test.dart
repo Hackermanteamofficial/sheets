@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:sheetifye/src/features/grid/widgets/sheet_grid.dart';
+import 'package:sheets/src/features/grid/widgets/sheet_grid.dart';
 
 void main() {
   testWidgets('SheetGrid mounts successfully with painters and scrollbars', (

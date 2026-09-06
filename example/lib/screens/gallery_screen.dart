@@ -1,6 +1,6 @@
 import 'dart:typed_data';
 import 'package:flutter/material.dart';
-import 'package:sheetifye/sheetifye.dart';
+import 'package:sheets/sheetifye.dart';
 
 class GalleryScreen extends StatelessWidget {
   const GalleryScreen({super.key});

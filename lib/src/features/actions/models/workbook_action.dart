@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:sheetifye/src/features/workbook/state/workbook_state.dart';
+import 'package:sheets/src/features/workbook/state/workbook_state.dart';
 
 /// Categories for organizing workbook actions in menus.
 enum WorkbookActionGroup {

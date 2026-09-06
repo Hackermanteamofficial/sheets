@@ -1,5 +1,5 @@
-import 'package:sheetifye/src/domain/contracts/sheetifye_repository.dart';
-import 'package:sheetifye/src/domain/entities/workbook.dart';
+import 'package:sheets/src/domain/contracts/sheetifye_repository.dart';
+import 'package:sheets/src/domain/entities/workbook.dart';
 
 class MockSheetifyeRepository implements SheetifyeRepository {
   @override

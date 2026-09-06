@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
-import 'package:sheetifye/src/core/theme/sheetifye_theme_data.dart';
-import 'package:sheetifye/src/core/theme/sheetifye_dimensions.dart';
-import 'package:sheetifye/src/core/theme/sheetifye_spacing_tokens.dart';
-import 'package:sheetifye/src/engine/virtualization/virtualization_engine.dart';
-import 'package:sheetifye/src/engine/render/text_painter_cache.dart';
-import 'package:sheetifye/src/engine/layout/layout_engine.dart';
-import 'package:sheetifye/src/domain/entities/workbook.dart';
+import 'package:sheets/src/core/theme/sheetifye_theme_data.dart';
+import 'package:sheets/src/core/theme/sheetifye_dimensions.dart';
+import 'package:sheets/src/core/theme/sheetifye_spacing_tokens.dart';
+import 'package:sheets/src/engine/virtualization/virtualization_engine.dart';
+import 'package:sheets/src/engine/render/text_painter_cache.dart';
+import 'package:sheets/src/engine/layout/layout_engine.dart';
+import 'package:sheets/src/domain/entities/workbook.dart';
 
 class GridPainter extends CustomPainter {
   final Sheet sheet;

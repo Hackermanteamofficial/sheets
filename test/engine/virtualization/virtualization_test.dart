@@ -1,7 +1,7 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:sheetifye/sheetifye.dart';
-import 'package:sheetifye/src/engine/virtualization/virtualization_engine.dart';
-import 'package:sheetifye/src/engine/layout/layout_engine.dart';
+import 'package:sheets/sheetifye.dart';
+import 'package:sheets/src/engine/virtualization/virtualization_engine.dart';
+import 'package:sheets/src/engine/layout/layout_engine.dart';
 
 void main() {
   TestWidgetsFlutterBinding.ensureInitialized();
