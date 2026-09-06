@@ -1,3 +1,7 @@
+# N-Sheetify\n\nThis repository is a forked/exported copy of the original 'sheetifye' library.\n\nOriginal repository: https://github.com/Hackermanteamofficial/sheetifye\nExported at commit: 56abbd4d75c37a81af574e9bcc0b5bc470e024c9\nExport date: 2026-09-06\n\nPurpose: extracted from the 'form_to_excel' project to provide the library as a standalone package.\n\nLicense and attribution: see the original repository for license information. This repository preserves the original commit history.\n
+
+---
+
 <div align="center">
 
 # Sheetifye
